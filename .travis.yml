@@ -12,4 +12,4 @@ deploy:
   provider: heroku
   app: "ci-test2"
   api_key:
-    secure: "12b62b42-551d-4465-9701-3c2d64538fab"
+    secure: "319be4cb-2632-431f-984d-591b4f0c10cf"
