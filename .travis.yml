@@ -10,6 +10,6 @@ branches:
     
 deploy:
   provider: heroku
-  app: "ci-test2"
+  app: ci-test2
   api_key:
-    secure: "12b62b42-551d-4465-9701-3c2d64538fab"
+    secure: 12b62b42-551d-4465-9701-3c2d64538fab
